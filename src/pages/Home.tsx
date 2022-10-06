@@ -1,9 +1,12 @@
-import React from 'react'
-
+import React, { useState } from "react";
+import Box from "@mui/material/Box";
+import HeroBanner from "../components/HeroBanner";
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <Box>
+      <HeroBanner />
+    </Box>
+  );
+};
 
-export default Home
+export default Home;
