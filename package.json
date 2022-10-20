@@ -17,10 +17,12 @@
     "npm": "^8.19.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-horizontal-scrolling-menu": "^2.7.1",
     "react-loader-spinner": "^5.3.4",
     "react-router-dom": "^6.4.1"
   },
   "devDependencies": {
+    "@types/node": "^18.8.3",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
